@@ -8,3 +8,5 @@ An e-commerce website is a digital storefront allowing buyers to
 shop for goods and sell products and services. It's a
 virtual space where customers can make selections and sellers can
 showcase products.
+
+It only has a frontend and does not include a backend.
